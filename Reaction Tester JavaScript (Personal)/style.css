@@ -1,0 +1,18 @@
+            body {
+                font-family: fantasy;
+                font-size: 20px;
+            }
+        
+            #shape {
+                width: 200px;
+                height: 200px; 
+                background-color: red;
+                display:none; 
+                position: relative; 
+                top:100px; 
+                left:200px; 
+            }  
+            
+            .bold {
+                font-weight: bold;
+            }
